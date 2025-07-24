@@ -1,0 +1,7 @@
+D:\ISYAZILIM\NotDefteri\NotDefteri\bin\Release\NotDefteri.exe.config
+D:\ISYAZILIM\NotDefteri\NotDefteri\bin\Release\NotDefteri.exe
+D:\ISYAZILIM\NotDefteri\NotDefteri\bin\Release\NotDefteri.pdb
+D:\ISYAZILIM\NotDefteri\NotDefteri\obj\Release\NotDefteri.csproj.AssemblyReference.cache
+D:\ISYAZILIM\NotDefteri\NotDefteri\obj\Release\NotDefteri.csproj.CoreCompileInputs.cache
+D:\ISYAZILIM\NotDefteri\NotDefteri\obj\Release\NotDefteri.exe
+D:\ISYAZILIM\NotDefteri\NotDefteri\obj\Release\NotDefteri.pdb
